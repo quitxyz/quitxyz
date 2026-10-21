@@ -5,14 +5,14 @@ from pathlib import Path
 config = {
     "font": "Inter",
     "size": 20,
-    "duration": 187.5,  # ms per character
+    "duration": 125,  # ms per character
     "pause": 1400,
     "color": "F3F3F3",
     "center": True,
     "vCenter": True,
     "width": 435,
     "height": 50,
-    "delete": 62.5,  # ms per character
+    "delete": 40,  # ms per character
     "gap": 160,
     "lines": [
         "quit",
