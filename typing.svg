@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="435" height="50" viewBox="0 0 435 50" role="img" aria-label="quit animated typing profile">
+<style>
+  text { font-family: 'Inter', Consolas, monospace; font-size: 20px; font-weight: 400; }
+@keyframes typing0 {
+  0.000000% { width: 0.000px; animation-timing-function: steps(4,start); }
+  4.708098% { width: 48.000px; animation-timing-function: steps(1,end); }
+  13.496547% { width: 48.000px; animation-timing-function: steps(4,start); }
+  15.065913% { width: 0.000px; animation-timing-function: steps(1,end); }
+  100.000000% { width: 0.000px; animation-timing-function: linear; }
+}
+#reveal0 { animation: typing0 15930ms linear infinite; }
+@keyframes typing1 {
+  0.000000% { width: 0.000px; animation-timing-function: linear; }
+  16.070308% { width: 0.000px; animation-timing-function: steps(18,start); }
+  37.256748% { width: 216.000px; animation-timing-function: steps(1,end); }
+  46.045198% { width: 216.000px; animation-timing-function: steps(18,start); }
+  53.107345% { width: 0.000px; animation-timing-function: steps(1,end); }
+  100.000000% { width: 0.000px; animation-timing-function: linear; }
+}
+#reveal1 { animation: typing1 15930ms linear infinite; }
+@keyframes typing2 {
+  0.000000% { width: 0.000px; animation-timing-function: linear; }
+  54.111739% { width: 0.000px; animation-timing-function: steps(23,start); }
+  81.183302% { width: 276.000px; animation-timing-function: steps(1,end); }
+  89.971751% { width: 276.000px; animation-timing-function: steps(23,start); }
+  98.995606% { width: 0.000px; animation-timing-function: steps(1,end); }
+  100.000000% { width: 0.000px; animation-timing-function: linear; }
+}
+#reveal2 { animation: typing2 15930ms linear infinite; }
+</style>
+
+  <clipPath id="clip0"><rect id="reveal0" x="193.500" y="0" width="0" height="50"/></clipPath>
+  <g clip-path="url(#clip0)"><text x="217.500" y="32.200" text-anchor="middle" xml:space="preserve"><tspan fill="#F3F3F3">quit</tspan></text></g>
+  <clipPath id="clip1"><rect id="reveal1" x="109.500" y="0" width="0" height="50"/></clipPath>
+  <g clip-path="url(#clip1)"><text x="217.500" y="32.200" text-anchor="middle" xml:space="preserve"><tspan fill="#969BA3">fakecrime.bio/</tspan><tspan fill="#F3F3F3">quit</tspan></text></g>
+  <clipPath id="clip2"><rect id="reveal2" x="79.500" y="0" width="0" height="50"/></clipPath>
+  <g clip-path="url(#clip2)"><text x="217.500" y="32.200" text-anchor="middle" xml:space="preserve"><tspan fill="#F3F3F3">software / os / scripts</tspan></text></g>
+</svg>
